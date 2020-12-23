@@ -1,0 +1,9 @@
+#hidden {
+    display: none;
+}
+
+.custom-image {
+    height: 200px;
+    width: 200px;
+    margin-right: 3%;
+}
